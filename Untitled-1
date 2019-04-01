@@ -1,0 +1,2 @@
+git remote add upstream https://github.com/maddog-garage/maddog-garage-site.git
+git push -u upstream master
